@@ -1,0 +1,1 @@
+1. jalankan "python main.py" atau "python3 main.py"
